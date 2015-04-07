@@ -2,7 +2,7 @@
 
 Coder Manual Porject Application
 Subscription-based web application
-http://codermanual.com
+ie.linkedin.com/in/veldhanish
 
 Things you may want to cover:
 
