@@ -1,8 +1,7 @@
 == README
 
-Coder Manual Porject Application
-Subscription-based web application
-ie.linkedin.com/in/veldhanish
+A subscription based Web Application
+https://ie.linkedin.com/in/veldhanish
 
 Things you may want to cover:
 
