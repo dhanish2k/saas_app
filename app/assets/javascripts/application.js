@@ -17,10 +17,15 @@
 //= require jquery
 //= require bootstrap-sprockets
 
-$(document).ready(function(){
+$(window).load(function(){
     $(".navbar img").hover(function(){
       $(this).animate({ width: "75px",height: "75px" });
   }, function() {
       $(this).animate({  width: "50px",height: "50px"});
   });
+  
+  $(".alert").mouseenter(function(){
+    $(this).css('display','none');
+  });
+  
 });  
